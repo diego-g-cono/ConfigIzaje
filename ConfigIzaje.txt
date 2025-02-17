@@ -1,0 +1,26 @@
+Configuración de Izaje
+--------------------------
+FECHA: 16/02/2025
+PRODUCTO A MANIPULAR: ADN
+CANTIDAD MÁXIMA A IZAR: 5
+CANT. PUNTOS DE IZAJE DE LA CARGA: 3
+PESO TOTAL CON CANT. MÁXIMA (Tn): 10.8
+PESO UNITARIO MÁX. (Tn): 2.16
+Nº PERCHA: Percha Integral - 01/02
+CAPACIDAD MÁXIMA PERCHA (Tn): 40 TN - 10 TN POR CANCAMO
+OPERACIÓN: SIDERURGICO
+
+Tiros Superiores
+--------------------------
+Longitud de la Eslinga: 6
+Capacidad de la Eslinga: 13
+Cancamos a utilizar: CS1  CS2  IS1  IS2  
+
+Tiros Inferiores
+--------------------------
+Longitud de la Eslinga: 4
+Capacidad de la Eslinga: 10
+Cancamos a utilizar: BI1  BI2  FI1  FI2  JI1  JI2  
+
+Peso bajo gancho de grúa: 13.3
+Longitud Total: 9.7
