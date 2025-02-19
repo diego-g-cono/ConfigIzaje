@@ -132,19 +132,3 @@ public class Verificacion {
         return bandera;
     }
 }
-
-
-/* this.angulo = 0d;
-        this.resistencia_eslingaSup = 0f;
-        this.resistencia_eslingaInf = 0f;
-        this.carga_eslingaSup = 0d;
-        this.carga_eslingaInf = 0f;
-        this.carga_cancamoInf = 0f;
-        this.carga_cancamoSup = 0d;
-        this.dist_centro = 0f;
-        this.peso_total = 0f;
-        this.long_eslingaSup = 0f;
-        this.puntos_izaje = 0f;
-        this.resistencia_cancamoInf = 0f;
-        this.resistencia_cancamoSup = 0f;
-        this.bandera = false; */
