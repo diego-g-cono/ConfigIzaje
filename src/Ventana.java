@@ -2,12 +2,12 @@ import java.awt.*;
 import javax.swing.*;
 
 public class Ventana extends JFrame {
-    private JButton siguiente;
     private JPanel panelPrincipal;
     private Panel1 panel1;
     private Panel2 panel2;
     private Panel3 panel3;
     private Percha pi1;
+    private JButton siguiente;
     private JButton anterior;
     private JButton verificar;
 
@@ -35,8 +35,6 @@ public class Ventana extends JFrame {
         panelPrincipal.add(panel2);
         panelPrincipal.add(panel3);
 
-        //BOTON SIGUIENTE 1
-        siguiente = new JButton("Siguiente");
         // Crear botones para navegar
         JPanel panelBotones = new JPanel();
         siguiente = new JButton("Siguiente");
